@@ -7,7 +7,8 @@ public class Pres1 {
 
     public static void main(String[] args) {
         DaoImpl dao = new DaoImpl();
-        MetierImpl metier = new MetierImpl(dao);
+        MetierImpl metier = new MetierImpl();
+        metier.setDao(dao);
         System.out.println("Resultat : "+metier.calcul());
     }
 }
