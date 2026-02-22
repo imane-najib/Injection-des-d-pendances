@@ -1,0 +1,13 @@
+package net.imane.pres;
+
+import net.imane.dao.DaoImpl;
+import net.imane.metier.MetierImpl;
+
+public class Pres1 {
+
+    public static void main(String[] args) {
+        DaoImpl dao = new DaoImpl();
+        MetierImpl metier = new MetierImpl(dao);
+        System.out.println("Resultat : "+metier.calcul());
+    }
+}
