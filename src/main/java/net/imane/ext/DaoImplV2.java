@@ -1,7 +1,9 @@
-package net.imane.net.imane.ext;
+package net.imane.ext;
 
 import net.imane.dao.IDao;
+import org.springframework.stereotype.Component;
 
+@Component("d2")
 public class DaoImplV2 implements IDao {
     @Override
     public double getData() {
