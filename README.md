@@ -14,12 +14,10 @@ L’objectif de cette activité pratique est de comprendre :
 # Partie 1 : Création des Interfaces et Implémentations
 
 ## Création de l’interface IDao
+Interface contenant une méthode getData().
+<img width="781" height="247" alt="image" src="https://github.com/user-attachments/assets/5806f690-4473-4a73-b84d-8bec83ddb0f5" />
 
-<img width="593" height="262" alt="image" src="https://github.com/user-attachments/assets/c128be6e-9b68-4902-93be-a356dfa12d64" />
-Interface contenant une méthode getData()
-## Implémentation de IDao
-Création de la classe DaoImpl
-<img width="676" height="406" alt="image" src="https://github.com/user-attachments/assets/074e2fa8-8e19-481f-b99c-70eb8c144ff3" />
+
 
 
 
