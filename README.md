@@ -15,6 +15,7 @@ L’objectif de cette activité pratique est de comprendre :
 
 ## Création de l’interface IDao
 Interface contenant une méthode getData().
+
 <img width="781" height="247" alt="image" src="https://github.com/user-attachments/assets/5806f690-4473-4a73-b84d-8bec83ddb0f5" />
 
 
