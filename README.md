@@ -32,7 +32,7 @@ La classe MetierImpl dépend de l’interface IDao et non d’une classe concrè
 ## 5 - Injection des Dépendances
    ### a) Injection par Instanciation Statique
    <img width="717" height="300" alt="image" src="https://github.com/user-attachments/assets/d324695f-ac54-43fe-bf13-d041551b013b" />
-   Les objets sont créés manuellement avec new.
+
    ### b) Injection par Instanciation Dynamique
    <img width="412" height="126" alt="image" src="https://github.com/user-attachments/assets/5d6eeb74-8244-4500-8f1d-e8ec488d89f1" />
    <img width="960" height="482" alt="image" src="https://github.com/user-attachments/assets/9a37be41-526f-473a-9d31-95552018a637" />
