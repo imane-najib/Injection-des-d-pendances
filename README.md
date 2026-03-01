@@ -15,3 +15,6 @@ L’objectif de cette activité pratique est de comprendre :
 
 ## Création de l’interface IDao
 
+<img width="593" height="262" alt="image" src="https://github.com/user-attachments/assets/c128be6e-9b68-4902-93be-a356dfa12d64" />
+
+
